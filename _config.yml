@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Owen Yaggy
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Owen Yaggy
+  email: owen@yaggy.dev
 
 plugins:
   - jemoji
